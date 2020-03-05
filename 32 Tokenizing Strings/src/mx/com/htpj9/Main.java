@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        
+
         String sentence = "This is a sentences with seven tokens";
 
         String[] tokens = sentence.split(" ");
